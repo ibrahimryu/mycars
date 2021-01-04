@@ -16,6 +16,7 @@ class App extends React.Component {
         Learn React Ibrahim      
         <MyCars title = {this.state.titre}/>
         <MyTest />
+        <MyTest />
       </div>
     );
   }
